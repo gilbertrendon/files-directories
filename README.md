@@ -20,3 +20,6 @@ En esta tarea, nos familiarizaremos con el API descrito en el capítulo del libr
 3. [Manejo dinámico de memoria en C](https://github.com/repos-SO-UdeA/lab5)
 4. [Manejo de archivos en C](https://github.com/repos-SO-UdeA/lab6)
 
+Notas: Stat - > display file or file system status
+https://www.google.com/search?q=stat+en+linux+para+que+sirve&oq=stat+en+linux+para+que+sirve&aqs=chrome..69i57j33l5.6335j0j7&sourceid=chrome&ie=UTF-8
+
